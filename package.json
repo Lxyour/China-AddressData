@@ -1,0 +1,30 @@
+{
+  "name": "provinces",
+  "version": "1.0.0",
+  "description": "China's latest administrative division data.",
+  "main": "index.js",
+  "dependencies": {
+    "chinesecities": "2015"
+  },
+  "scripts": {
+    "test": "tape demo/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lxyour/China-AddressData.git"
+  },
+  "homepage": "https://github.com/substack/provinces",
+  "keywords": [
+    "province",
+    "district",
+    "address",
+    "city",
+    "data"
+  ],
+  "author": {
+    "name": "TangXiao",
+    "email": "tx@lxyour.com",
+    "url": "http://www.lxyour.com/"
+  },
+  "license": "MIT"
+}
