@@ -1,0 +1,523 @@
+[
+    {
+        ProvinceName:"北京市",
+        CityAreaDict:[
+            {CityName:"北京市", AreaCode:"010"}
+        ]
+    },
+    {
+        ProvinceName:"上海市",
+        CityAreaDict:[
+            {CityName:"上海市", AreaCode:"021"}
+        ]
+    },
+    {
+        ProvinceName:"天津市",
+        CityAreaDict:[
+            {CityName:"天津市", AreaCode:"022"}
+        ]
+    },
+    {
+        ProvinceName:"重庆市",
+        CityAreaDict:[
+            {CityName:"重庆市", AreaCode:"023"}
+        ]
+    },
+    {
+        ProvinceName:"安徽省",
+        CityAreaDict:[
+            {CityName:"滁州市", AreaCode:"0550"},
+            {CityName:"合肥市", AreaCode:"0551"},
+            {CityName:"蚌埠市", AreaCode:"0552"},
+            {CityName:"芜湖市", AreaCode:"0553"},
+            {CityName:"淮南市", AreaCode:"0554"},
+            {CityName:"马鞍山", AreaCode:"0555"},
+            {CityName:"安庆市", AreaCode:"0556"},
+            {CityName:"宿州市", AreaCode:"0557"},
+            {CityName:"阜阳市", AreaCode:"0558"},
+            {CityName:"亳州市", AreaCode:"0558"},
+            {CityName:"黄山市", AreaCode:"0559"},
+            {CityName:"淮北市", AreaCode:"0561"},
+            {CityName:"铜陵市", AreaCode:"0562"},
+            {CityName:"宣城市", AreaCode:"0563"},
+            {CityName:"六安市", AreaCode:"0564"},
+            {CityName:"巢湖市", AreaCode:"0565"},
+            {CityName:"贵池市", AreaCode:"0566"}
+        ]
+    },
+    {
+        ProvinceName:"福建省",
+        CityAreaDict:[
+            {CityName:"福州市", AreaCode:"0591"},
+            {CityName:"厦门市", AreaCode:"0592"},
+            {CityName:"宁德市", AreaCode:"0593"},
+            {CityName:"莆田市", AreaCode:"0594"},
+            {CityName:"泉州市", AreaCode:"0595"},
+            {CityName:"晋江市", AreaCode:"0595"},
+            {CityName:"漳州市", AreaCode:"0596"},
+            {CityName:"龙岩市", AreaCode:"0597"},
+            {CityName:"三明市", AreaCode:"0598"},
+            {CityName:"南平市", AreaCode:"0599"}
+        ]
+    },
+    {
+        ProvinceName:"甘肃省",
+        CityAreaDict:[
+            {CityName:"临夏市", AreaCode:"0930"},
+            {CityName:"兰州市", AreaCode:"0931"},
+            {CityName:"定西市", AreaCode:"0932"},
+            {CityName:"平凉市", AreaCode:"0933"},
+            {CityName:"西峰市", AreaCode:"0934"},
+            {CityName:"武威市", AreaCode:"0935"},
+            {CityName:"张掖市", AreaCode:"0936"},
+            {CityName:"酒泉市", AreaCode:"0937"},
+            {CityName:"天水市", AreaCode:"0938"},
+            {CityName:"甘南州", AreaCode:"0941"},
+            {CityName:"白银市", AreaCode:"0943"}
+        ]
+    },
+    {
+        ProvinceName:"广东省",
+        CityAreaDict:[
+            {CityName:"广州市", AreaCode:"020"},
+            {CityName:"韶关市", AreaCode:"0751"},
+            {CityName:"惠州市", AreaCode:"0752"},
+            {CityName:"梅州市", AreaCode:"0753"},
+            {CityName:"汕头市", AreaCode:"0754"},
+            {CityName:"深圳市", AreaCode:"0755"},
+            {CityName:"珠海市", AreaCode:"0756"},
+            {CityName:"佛山市", AreaCode:"0757"},
+            {CityName:"肇庆市", AreaCode:"0758"},
+            {CityName:"湛江市", AreaCode:"0759"},
+            {CityName:"中山市", AreaCode:"0760"},
+            {CityName:"河源市", AreaCode:"0762"},
+            {CityName:"清远市", AreaCode:"0763"},
+            {CityName:"顺德市", AreaCode:"0765"},
+            {CityName:"云浮市", AreaCode:"0766"},
+            {CityName:"潮州市", AreaCode:"0768"},
+            {CityName:"东莞市", AreaCode:"0769"},
+            {CityName:"汕尾市", AreaCode:"0660"},
+            {CityName:"潮阳市", AreaCode:"0661"},
+            {CityName:"阳江市", AreaCode:"0662"},
+            {CityName:"揭西市", AreaCode:"0663"}
+        ]
+    },
+    {
+        ProvinceName:"广西省",
+        CityAreaDict:[
+            {CityName:"防城港", AreaCode:"0770"},
+            {CityName:"南宁市", AreaCode:"0771"},
+            {CityName:"柳州市", AreaCode:"0772"},
+            {CityName:"桂林市", AreaCode:"0773"},
+            {CityName:"梧州市", AreaCode:"0774"},
+            {CityName:"玉林市", AreaCode:"0775"},
+            {CityName:"百色市", AreaCode:"0776"},
+            {CityName:"钦州市", AreaCode:"0777"},
+            {CityName:"河池市", AreaCode:"0778"},
+            {CityName:"北海市", AreaCode:"0779"}
+        ]
+    },
+    {
+        ProvinceName:"贵州省",
+        CityAreaDict:[
+            {CityName:"贵阳市", AreaCode:"0851"},
+            {CityName:"遵义市", AreaCode:"0852"},
+            {CityName:"安顺市", AreaCode:"0853"},
+            {CityName:"都均市", AreaCode:"0854"},
+            {CityName:"凯里市", AreaCode:"0855"},
+            {CityName:"铜仁市", AreaCode:"0856"},
+            {CityName:"毕节市", AreaCode:"0857"},
+            {CityName:"六盘水", AreaCode:"0858"},
+            {CityName:"兴义市", AreaCode:"0859"}
+        ]
+    },
+    {
+        ProvinceName:"海南省",
+        CityAreaDict:[
+            {CityName:"儋州市", AreaCode:"0890"},
+            {CityName:"海口市", AreaCode:"0898"},
+            {CityName:"三亚市", AreaCode:"0899"}
+        ]
+    },
+    {
+        ProvinceName:"河北省",
+        CityAreaDict:[
+            {CityName:"邯郸市", AreaCode:"0310"},
+            {CityName:"石家庄", AreaCode:"0311"},
+            {CityName:"保定市", AreaCode:"0312"},
+            {CityName:"张家口", AreaCode:"0313"},
+            {CityName:"承德市", AreaCode:"0314"},
+            {CityName:"唐山市", AreaCode:"0315"},
+            {CityName:"廊坊市", AreaCode:"0316"},
+            {CityName:"沧州市", AreaCode:"0317"},
+            {CityName:"衡水市", AreaCode:"0318"},
+            {CityName:"邢台市", AreaCode:"0319"},
+            {CityName:"秦皇岛", AreaCode:"0335"}
+        ]
+    },
+    {
+        ProvinceName:"河南省",
+        CityAreaDict:[
+            {CityName:"商丘市", AreaCode:"0370"},
+            {CityName:"郑州市", AreaCode:"0371"},
+            {CityName:"安阳市", AreaCode:"0372"},
+            {CityName:"新乡市", AreaCode:"0373"},
+            {CityName:"许昌市", AreaCode:"0374"},
+            {CityName:"平顶山", AreaCode:"0375"},
+            {CityName:"信阳市", AreaCode:"0376"},
+            {CityName:"南阳市", AreaCode:"0377"},
+            {CityName:"开封市", AreaCode:"0378"},
+            {CityName:"洛阳市", AreaCode:"0379"},
+            {CityName:"焦作市", AreaCode:"0391"},
+            {CityName:"鹤壁市", AreaCode:"0392"},
+            {CityName:"濮阳市", AreaCode:"0393"},
+            {CityName:"周口市", AreaCode:"0394"},
+            {CityName:"漯河市", AreaCode:"0395"},
+            {CityName:"驻马店", AreaCode:"0396"},
+            {CityName:"三门峡", AreaCode:"0398"}
+        ]
+    },
+    {
+        ProvinceName:"黑龙江",
+        CityAreaDict:[
+            {CityName:"阿城市", AreaCode:"0450"},
+            {CityName:"哈尔滨", AreaCode:"0451"},
+            {CityName:"齐齐哈尔", AreaCode:"0452"},
+            {CityName:"牡丹江", AreaCode:"0453"},
+            {CityName:"佳木斯", AreaCode:"0454"},
+            {CityName:"绥化市", AreaCode:"0455"},
+            {CityName:"黑河市", AreaCode:"0456"},
+            {CityName:"加格达奇", AreaCode:"0457"},
+            {CityName:"伊春市", AreaCode:"0458"},
+            {CityName:"大庆市", AreaCode:"0459"}
+        ]
+    },
+    {
+        ProvinceName:"湖北省",
+        CityAreaDict:[
+            {CityName:"武汉市", AreaCode:"027"},
+            {CityName:"襄城市", AreaCode:"0710"},
+            {CityName:"鄂州市", AreaCode:"0711"},
+            {CityName:"孝感市", AreaCode:"0712"},
+            {CityName:"黄州市", AreaCode:"0713"},
+            {CityName:"黄石市", AreaCode:"0714"},
+            {CityName:"咸宁市", AreaCode:"0715"},
+            {CityName:"荆沙市", AreaCode:"0716"},
+            {CityName:"宜昌市", AreaCode:"0717"},
+            {CityName:"恩施市", AreaCode:"0718"},
+            {CityName:"十堰市", AreaCode:"0719"},
+            {CityName:"随枣市", AreaCode:"0722"},
+            {CityName:"荆门市", AreaCode:"0724"},
+            {CityName:"江汉市", AreaCode:"0728"}
+        ]
+    },
+    {
+        ProvinceName:"湖南省",
+        CityAreaDict:[
+            {CityName:"岳阳市", AreaCode:"0730"},
+            {CityName:"长沙市", AreaCode:"0731"},
+            {CityName:"湘潭市", AreaCode:"0732"},
+            {CityName:"株州市", AreaCode:"0733"},
+            {CityName:"衡阳市", AreaCode:"0734"},
+            {CityName:"郴州市", AreaCode:"0735"},
+            {CityName:"常德市", AreaCode:"0736"},
+            {CityName:"益阳市", AreaCode:"0737"},
+            {CityName:"娄底市", AreaCode:"0738"},
+            {CityName:"邵阳市", AreaCode:"0739"},
+            {CityName:"吉首市", AreaCode:"0743"},
+            {CityName:"张家界", AreaCode:"0744"},
+            {CityName:"怀化市", AreaCode:"0745"},
+            {CityName:"永州市", AreaCode:"0746"}
+        ]
+    },
+    {
+        ProvinceName:"江苏省",
+        CityAreaDict:[
+            {CityName:"南京市", AreaCode:"025"},
+            {CityName:"无锡市", AreaCode:"0510"},
+            {CityName:"镇江市", AreaCode:"0511"},
+            {CityName:"苏州市", AreaCode:"0512"},
+            {CityName:"南通市", AreaCode:"0513"},
+            {CityName:"扬州市", AreaCode:"0514"},
+            {CityName:"盐城市", AreaCode:"0515"},
+            {CityName:"徐州市", AreaCode:"0516"},
+            {CityName:"淮阴市", AreaCode:"0517"},
+            {CityName:"淮安市", AreaCode:"0517"},
+            {CityName:"连云港", AreaCode:"0518"},
+            {CityName:"常州市", AreaCode:"0519"},
+            {CityName:"泰州市", AreaCode:"0523"}
+        ]
+    },
+    {
+        ProvinceName:"江西省",
+        CityAreaDict:[
+            {CityName:"新余市", AreaCode:"0790"},
+            {CityName:"南昌市", AreaCode:"0791"},
+            {CityName:"九江市", AreaCode:"0792"},
+            {CityName:"上饶市", AreaCode:"0793"},
+            {CityName:"临川市", AreaCode:"0794"},
+            {CityName:"宜春市", AreaCode:"0795"},
+            {CityName:"吉安市", AreaCode:"0796"},
+            {CityName:"赣州市", AreaCode:"0797"},
+            {CityName:"景德镇", AreaCode:"0798"},
+            {CityName:"萍乡市", AreaCode:"0799"},
+            {CityName:"鹰潭市", AreaCode:"0701"}
+        ]
+    },
+    {
+        ProvinceName:"吉林省",
+        CityAreaDict:[
+            {CityName:"长春市", AreaCode:"0431"},
+            {CityName:"吉林市", AreaCode:"0432"},
+            {CityName:"延吉市", AreaCode:"0433"},
+            {CityName:"四平市", AreaCode:"0434"},
+            {CityName:"通化市", AreaCode:"0435"},
+            {CityName:"白城市", AreaCode:"0436"},
+            {CityName:"辽源市", AreaCode:"0437"},
+            {CityName:"松原市", AreaCode:"0438"},
+            {CityName:"浑江市", AreaCode:"0439"},
+            {CityName:"珲春市", AreaCode:"0440"}
+        ]
+    },
+    {
+        ProvinceName:"辽宁省",
+        CityAreaDict:[
+            {CityName:"沈阳市", AreaCode:"024"},
+            {CityName:"铁岭市", AreaCode:"0410"},
+            {CityName:"大连市", AreaCode:"0411"},
+            {CityName:"鞍山市", AreaCode:"0412"},
+            {CityName:"抚顺市", AreaCode:"0413"},
+            {CityName:"本溪市", AreaCode:"0414"},
+            {CityName:"丹东市", AreaCode:"0415"},
+            {CityName:"锦州市", AreaCode:"0416"},
+            {CityName:"营口市", AreaCode:"0417"},
+            {CityName:"阜新市", AreaCode:"0418"},
+            {CityName:"辽阳市", AreaCode:"0419"},
+            {CityName:"朝阳市", AreaCode:"0421"},
+            {CityName:"盘锦市", AreaCode:"0427"},
+            {CityName:"葫芦岛", AreaCode:"0429"}
+        ]
+    },
+    {
+        ProvinceName:"内蒙古",
+        CityAreaDict:[
+            {CityName:"海拉尔", AreaCode:"0470"},
+            {CityName:"呼和浩特", AreaCode:"0471"},
+            {CityName:"包头市", AreaCode:"0472"},
+            {CityName:"乌海市", AreaCode:"0473"},
+            {CityName:"集宁市", AreaCode:"0474"},
+            {CityName:"通辽市", AreaCode:"0475"},
+            {CityName:"赤峰市", AreaCode:"0476"},
+            {CityName:"东胜市", AreaCode:"0477"},
+            {CityName:"临河市", AreaCode:"0478"},
+            {CityName:"锡林浩特", AreaCode:"0479"},
+            {CityName:"乌兰浩特", AreaCode:"0482"},
+            {CityName:"阿拉善左旗", AreaCode:"0483"}
+        ]
+    },
+    {
+        ProvinceName:"宁夏",
+        CityAreaDict:[
+            {CityName:"银川市", AreaCode:"0951"},
+            {CityName:"石嘴山", AreaCode:"0952"},
+            {CityName:"吴忠市", AreaCode:"0953"},
+            {CityName:"固原市", AreaCode:"0954"},
+			{CityName:"中卫市", AreaCode:"0955"}
+        ]
+    },
+    {
+        ProvinceName:"青海省",
+        CityAreaDict:[
+            {CityName:"西宁市", AreaCode:"0971"},
+            {CityName:"海东市", AreaCode:"0972"},
+            {CityName:"同仁市", AreaCode:"0973"},
+            {CityName:"共和市", AreaCode:"0974"},
+            {CityName:"玛沁市", AreaCode:"0975"},
+            {CityName:"玉树市", AreaCode:"0976"},
+            {CityName:"德令哈", AreaCode:"0977"}
+        ]
+    },
+    {
+        ProvinceName:"陕西省",
+        CityAreaDict:[
+            {CityName:"西安市", AreaCode:"029"},
+            {CityName:"咸阳市", AreaCode:"0910"},
+            {CityName:"延安市", AreaCode:"0911"},
+            {CityName:"榆林市", AreaCode:"0912"},
+            {CityName:"渭南市", AreaCode:"0913"},
+            {CityName:"商洛市", AreaCode:"0914"},
+            {CityName:"安康市", AreaCode:"0915"},
+            {CityName:"汉中市", AreaCode:"0916"},
+            {CityName:"宝鸡市", AreaCode:"0917"},
+            {CityName:"铜川市", AreaCode:"0919"}
+        ]
+    },
+    {
+        ProvinceName:"山东省",
+        CityAreaDict:[
+            {CityName:"菏泽市", AreaCode:"0530"},
+            {CityName:"济南市", AreaCode:"0531"},
+            {CityName:"青岛市", AreaCode:"0532"},
+            {CityName:"淄博市", AreaCode:"0533"},
+            {CityName:"德州市", AreaCode:"0534"},
+            {CityName:"烟台市", AreaCode:"0535"},
+            {CityName:"潍坊市", AreaCode:"0536"},
+            {CityName:"济宁市", AreaCode:"0537"},
+            {CityName:"泰安市", AreaCode:"0538"},
+            {CityName:"临沂市", AreaCode:"0539"}
+        ]
+    },
+    {
+        ProvinceName:"山西省",
+        CityAreaDict:[
+            {CityName:"忻州市", AreaCode:"0350"},
+            {CityName:"太原市", AreaCode:"0351"},
+            {CityName:"大同市", AreaCode:"0352"},
+            {CityName:"阳泉市", AreaCode:"0353"},
+            {CityName:"榆次市", AreaCode:"0354"},
+            {CityName:"长治市", AreaCode:"0355"},
+            {CityName:"晋城市", AreaCode:"0356"},
+            {CityName:"临汾市", AreaCode:"0357"},
+            {CityName:"离石市", AreaCode:"0358"},
+            {CityName:"运城市", AreaCode:"0359"}
+        ]
+    },
+    {
+        ProvinceName:"四川省",
+        CityAreaDict:[
+            {CityName:"成都市", AreaCode:"028"},
+            {CityName:"涪陵市", AreaCode:"0810"},
+            {CityName:"重庆市", AreaCode:"0811"},
+            {CityName:"攀枝花", AreaCode:"0812"},
+            {CityName:"自贡市", AreaCode:"0813"},
+            {CityName:"永川市", AreaCode:"0814"},
+            {CityName:"绵阳市", AreaCode:"0816"},
+            {CityName:"南充市", AreaCode:"0817"},
+            {CityName:"达县市", AreaCode:"0818"},
+            {CityName:"万县市", AreaCode:"0819"},
+            {CityName:"遂宁市", AreaCode:"0825"},
+            {CityName:"广安市", AreaCode:"0826"},
+            {CityName:"巴中市", AreaCode:"0827"},
+            {CityName:"泸州市(0830)", AreaCode:"0830"},
+            {CityName:"宜宾市", AreaCode:"0831"},
+            {CityName:"内江市", AreaCode:"0832"},
+            {CityName:"乐山市", AreaCode:"0833"},
+            {CityName:"西昌市", AreaCode:"0834"},
+            {CityName:"雅安市", AreaCode:"0835"},
+            {CityName:"康定市", AreaCode:"0836"},
+            {CityName:"马尔康", AreaCode:"0837"},
+            {CityName:"德阳市", AreaCode:"0838"},
+            {CityName:"广元市", AreaCode:"0839"},
+            {CityName:"泸州市(0840)", AreaCode:"0840"}
+        ]
+    },
+    {
+        ProvinceName:"西藏",
+        CityAreaDict:[
+            {CityName:"拉萨市", AreaCode:"0891"},
+            {CityName:"日喀则", AreaCode:"0892"},
+            {CityName:"山南市", AreaCode:"0893"}
+        ]
+    },
+    {
+		 ProvinceName:"新疆",
+		 CityAreaDict:[
+			 {CityName:"乌鲁木齐", AreaCode:"0991"},
+			 {CityName:"克拉玛依", AreaCode:"0990"},
+			 {CityName:"吐鲁番", AreaCode:"0995"},
+			 {CityName:"哈密", AreaCode:"0902"},
+			 {CityName:"昌吉", AreaCode:"0994"},
+			 {CityName:"博乐", AreaCode:"0909"},
+			 {CityName:"库尔勒", AreaCode:"0996"},
+			 {CityName:"阿克苏", AreaCode:"0997"},
+			 {CityName:"阿图什", AreaCode:"0908"},
+			 {CityName:"喀什", AreaCode:"0998"},
+			 {CityName:"和田", AreaCode:"0903"},
+			 {CityName:"伊犁", AreaCode:"0999"},
+			 {CityName:"塔城", AreaCode:"0901"},
+			 {CityName:"阿勒泰", AreaCode:"0906"}
+		 ]
+    },
+    {
+        ProvinceName:"云南省",
+        CityAreaDict:[
+            {CityName:"昭通市", AreaCode:"0870"},
+            {CityName:"昆明市", AreaCode:"0871"},
+            {CityName:"大理市", AreaCode:"0872"},
+            {CityName:"个旧市", AreaCode:"0873"},
+            {CityName:"曲靖市", AreaCode:"0874"},
+            {CityName:"保山市", AreaCode:"0875"},
+            {CityName:"文山市", AreaCode:"0876"},
+            {CityName:"玉溪市", AreaCode:"0877"},
+            {CityName:"楚雄市", AreaCode:"0878"},
+            {CityName:"思茅市", AreaCode:"0879"},
+            {CityName:"景洪市", AreaCode:"0691"},
+            {CityName:"潞西市", AreaCode:"0692"},
+            {CityName:"东川市", AreaCode:"0881"},
+            {CityName:"临沧市", AreaCode:"0883"},
+            {CityName:"六库市", AreaCode:"0886"},
+            {CityName:"中甸市", AreaCode:"0887"},
+            {CityName:"丽江市", AreaCode:"0888"}
+        ]
+    },
+    {
+        ProvinceName:"浙江省",
+        CityAreaDict:[
+            {CityName:"衢州市", AreaCode:"0570"},
+            {CityName:"杭州市", AreaCode:"0571"},
+            {CityName:"湖州市", AreaCode:"0572"},
+            {CityName:"嘉兴市", AreaCode:"0573"},
+            {CityName:"宁波市", AreaCode:"0574"},
+            {CityName:"绍兴市", AreaCode:"0575"},
+            {CityName:"台州市", AreaCode:"0576"},
+            {CityName:"温州市", AreaCode:"0577"},
+            {CityName:"丽水市", AreaCode:"0578"},
+            {CityName:"金华市", AreaCode:"0579"},
+            {CityName:"舟山市", AreaCode:"0580"}
+        ]
+    },
+    {
+        ProvinceName:"香港",
+        CityAreaDict:[
+            {CityName:"香港", AreaCode:"852"}
+        ]
+    },
+    {
+        ProvinceName:"澳门",
+        CityAreaDict:[
+            {CityName:"澳门", AreaCode:"853"}
+        ]
+    }, {
+		ProvinceName:"台湾",
+		CityAreaDict:[
+			{CityName:"阿莲", AreaCode:"886"},
+			{CityName:"安定", AreaCode:"887"},
+			{CityName:"安平", AreaCode:"888"},
+			{CityName:"八德", AreaCode:"889"},
+			{CityName:"八里", AreaCode:"890"},
+			{CityName:"白河", AreaCode:"891"},
+			{CityName:"白沙", AreaCode:"892"},
+			{CityName:"板桥", AreaCode:"893"},
+			{CityName:"褒忠", AreaCode:"894"},
+			{CityName:"宝山", AreaCode:"895"},
+			{CityName:"卑南", AreaCode:"896"},
+			{CityName:"北斗", AreaCode:"897"},
+			{CityName:"北港", AreaCode:"898"},
+			{CityName:"北门", AreaCode:"899"},
+			{CityName:"北埔", AreaCode:"900"},
+			{CityName:"北投", AreaCode:"901"},
+			{CityName:"补子", AreaCode:"902"},
+			{CityName:"布袋", AreaCode:"903"},
+			{CityName:"草屯", AreaCode:"904"},
+			{CityName:"长宾", AreaCode:"905"},
+			{CityName:"长治", AreaCode:"906"},
+			{CityName:"潮州", AreaCode:"907"},
+			{CityName:"车城", AreaCode:"908"},
+			{CityName:"成功", AreaCode:"910"},
+			{CityName:"池上", AreaCode:"911"},
+			{CityName:"春日", AreaCode:"912"},
+			{CityName:"刺桐", AreaCode:"913"},
+			{CityName:"城中区", AreaCode:"909"}
+		]
+	}
+];
