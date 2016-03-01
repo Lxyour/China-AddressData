@@ -2,7 +2,7 @@
   { "name": "北京", "short": "京", "country": "CN" },
   { "name": "上海", "short": "沪", "country": "CN" },
   { "name": "天津", "short": "津", "country": "CN" },
-  { "name": "重庆", "short": "渝", "country": "CN" },
+  { "name": "福建", "short": "闽", "country": "CN" },
   { "name": "黑龙江", "short": "黑", "country": "CN" },
   { "name": "吉林", "short": "吉", "country": "CN" },
   { "name": "海南", "short": "琼", "country": "CN" },
@@ -17,23 +17,20 @@
   { "name": "河南", "short": "豫", "country": "CN" },
   { "name": "湖北", "short": "鄂", "country": "CN" },
   { "name": "湖南", "short": "湘", "country": "CN" },
+  { "name": "江苏", "short": "苏", "country": "CN" },
   { "name": "江西", "short": "赣", "country": "CN" },
   { "name": "山东", "short": "鲁", "country": "CN" },
-  { "name": "江苏", "short": "苏", "country": "CN" },
   { "name": "安徽", "short": "皖", "country": "CN" },
   { "name": "山西", "short": "晋", "country": "CN" },
+  { "name": "重庆", "short": "渝", "country": "CN" },
   { "name": "陕西", "short": "陕", "country": "CN" },
   { "name": "四川", "short": "川", "country": "CN" },
   { "name": "云南", "short": "滇", "country": "CN" },
   { "name": "贵州", "short": "黔", "country": "CN" },
   { "name": "浙江", "short": "浙", "country": "CN" },
-  { "name": "福建", "short": "闽", "country": "CN" },
   { "name": "广西", "short": "桂", "country": "CN" },
   { "name": "广东", "short": "粤", "country": "CN" },
   { "name": "台湾", "short": "台", "country": "CN" },
   { "name": "香港", "short": "港", "country": "CN" },
-  { "name": "澳门", "short": "澳", "country": "CN" },
-  
-  
-  
+  { "name": "澳门", "short": "澳", "country": "CN" }
 ]
