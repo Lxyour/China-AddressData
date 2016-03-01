@@ -7,5 +7,5 @@
 * /three-level address           
   * addrData.json           ------ 包含省市区
   * province.js             ------ 省份
-  * district.js             ------ 城市
-  * city.js                 ------ 县区
+  * city.js                 ------ 城市
+  * district.js             ------ 县区
